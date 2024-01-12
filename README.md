@@ -4,6 +4,8 @@ A resource for the application of chatGPT for ecologists. ## Getting Started
 
 ### Prerequisites
 
+- R
+- RStudio
 - Python 3.7 or higher
 - pip (package installer for Python)
 - OpenAI GPT-3 API key
@@ -12,16 +14,16 @@ A resource for the application of chatGPT for ecologists. ## Getting Started
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/EcologyGPT.git
-   cd EcologyGPT
-   ```
+```bash
+git clone https://github.com/your-username/EcologyGPT.git
+cd EcologyGPT
+```
 
 2. Install the required dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 3. Obtain an OpenAI GPT-3 API key by following the instructions on the [OpenAI website](https://beta.openai.com/signup/).
 
